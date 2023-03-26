@@ -1,5 +1,13 @@
 # myth_games02
 
+<table>
+  <tr>
+    <td><img width="346" alt="Ekran Resmi 2023-03-26 18 10 42"src="https://user-images.githubusercontent.com/30385980/227785497-fa94ca48-017d-4f6b-8ac5-4ae83cf766bc.png"></td>
+    <td><img width="346" alt="Ekran Resmi 2023-03-26 18 14 02" src="https://user-images.githubusercontent.com/30385980/227785419-796affcc-f450-4fc9-8b0b-434c4726e505.png"></td>
+  </tr>
+</table>
+
+
 A new Flutter project.
 
 ## Getting Started
